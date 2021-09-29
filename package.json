@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "testcafe": "^1.16.0"
+  },
+  "name": "qa_engineer_challenge",
+  "version": "1.0.0",
+  "description": "Challenge QA Engineer",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "testcafe chrome test/*"
+  },
+  "author": "Esteban Espinoza",
+  "license": "ISC"
+}
